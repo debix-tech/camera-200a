@@ -22,7 +22,7 @@ DEBIX Camera 200A Module is a tiny camera with the GC2145 sensor. It supports re
 
 ## Specification
 | Camera 200A     |                              |
-|-----------------|------------------------------|
+|:----------------|------------------------------|
 | Still Resolution| 2 megapixels                 |
 | Video Mode      | 1600 x 1200/20fps            |
 | Sensor          | GC2145                       |
@@ -44,7 +44,7 @@ DEBIX Camera 200A Module is a tiny camera with the GC2145 sensor. It supports re
 | Flexible Flat Cable  | 15cm                    |
  
 | Camera Lens     |                              |
-|-----------------|------------------------------|
+|:-----------------|------------------------------|
 | Output Formats  | Raw/YCbCr4:2:2/RGB565        |
 | Lens Construction | 3P+1IR                     |
 | TV Distortion    | <1.5%                       |
@@ -54,7 +54,7 @@ DEBIX Camera 200A Module is a tiny camera with the GC2145 sensor. It supports re
 | Dynamic Range   | TBD                          |
 | Power Supply    | Core: 1.8VDC<br>Analog: 2.8VDC<br>I/O: 3.3VDC   |
 | Power Consumption | Operating: 100mW           |
-| Temperature Range | Operating Temp.: -30℃~70℃<br>Storage Temp.: -40℃~85℃ |
+| Temperature Range | Operating Temp.: -30℃\~70℃<br>Storage Temp.: -40℃\~85℃ |
 
 ## Certificates
 <p align="left">
