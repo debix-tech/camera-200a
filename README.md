@@ -13,7 +13,7 @@ DEBIX Camera 200A Module is a tiny camera with the GC2145 sensor. It supports re
 - Fixed focus
 
 ## Compatibility:
-- Compatible with DEBIX Model A, DEBIX Model B, DEBIX Model C, DEBIX Infinity and DEBIX R3576-01
+- Compatible with DEBIX Model A, DEBIX Model B, DEBIX Model C and DEBIX Infinity
 - Support for use with DEBIX SOM A I/O Board through an add-on board
 
 <p align="center">
